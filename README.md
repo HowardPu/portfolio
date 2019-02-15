@@ -6,7 +6,7 @@ Individual Projects:
 
 - Automatical seat resrvation system (based on user preference) for the study room at Changchun Library (in React).
   
-  - Since the server for seat selection system is in China, I decide not to put the code into my student server, which is in the US. However, the code is posted in here and can be run by `npm start`.
+  - Since the server for seat selection system is in China, I decide not to put the code into my student server, which is in the US. However, the code is posted in here and can be run by `npm start` once all required packages are installed.
 
 - [Data Analysis for latest battles in Vainglory at given game zone](http://students.washington.edu/howardpu/info/p3-HowardPu/)
 
