@@ -1,6 +1,6 @@
-Here are some of my works you may feel interested to explore more:
+# Portfolio
 
-Individual Projects:
+##Individual Projects:
 
 - [Data visulization for grades for CSE 142/143 at University of Washington between 2005 to 2017](https://github.com/HowardPu/CSE-Data-Analysis)
 
@@ -14,7 +14,7 @@ Individual Projects:
 
 
 
-Team Projects
+##Team Projects
 
 - [Applying household data to predict poverty level in developing countries](http://students.washington.edu/howardpu/info/poverty-prediction/#/)
 
