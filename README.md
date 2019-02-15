@@ -2,7 +2,7 @@
 
 ## Individual Projects:
 
-- [Data visulization for grades for CSE 142/143 at University of Washington between 2005 to 2017](https://github.com/HowardPu/CSE-Data-Analysis)
+- [Data visulization for grades of CSE 142/143 at University of Washington between 2005 to 2017](https://github.com/HowardPu/CSE-Data-Analysis)
 
 - Automatical seat resrvation system (based on user preference) for the study room at Changchun Library (in React).
   
