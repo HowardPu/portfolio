@@ -2,7 +2,7 @@ Here are some of my works you may feel interested to explore more:
 
 Individual Projects:
 
-- [Data visulization for grades for CSE 142/143 at University of Washington](https://github.com/HowardPu/CSE-Data-Analysis)
+- [Data visulization for grades for CSE 142/143 at University of Washington between 2005 to 2017](https://github.com/HowardPu/CSE-Data-Analysis)
 
 - Automatical seat resrvation system (based on user preference) for the study room at Changchun Library (in React).
   
@@ -16,9 +16,13 @@ Individual Projects:
 
 Team Projects
 
-- [Applying household data to predict poverty level in developing country](http://students.washington.edu/howardpu/info/poverty-prediction/#/)
+- [Applying household data to predict poverty level in developing countries](http://students.washington.edu/howardpu/info/poverty-prediction/#/)
 
   - I was in charge of data visulization, website design and development, and the statistical analysis.
   
+
+- [Data visulizatioin for US air pollution between 2000 to 2016](https://howardpu.shinyapps.io/INFO-201-FINAL-PROJECT-AIR-POLLUTION/)
+
+  - I was in charge of the interface design, Pie chart, scatter plot, and bar plot
  
 
